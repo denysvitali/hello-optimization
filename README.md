@@ -23,5 +23,5 @@ Programming Language | Compiler Version
 -------------------- | ----------------------------------------------------------------------------------------------------------
 C                    | gcc version 6.3.1 20170306
 Crystal              | Crystal 0.20.5 (2017-01-25)
-Java                 | OpenJDK Runtime Environment (build 1.8.0_121-b13)\ OpenJDK 64-Bit Server VM (build 25.121-b13, mixed mode)
+Java                 | OpenJDK Runtime Environment (build 1.8.0_121-b13) <br/>OpenJDK 64-Bit Server VM (build 25.121-b13, mixed mode)
 Rust                 | rustc 1.15.1
