@@ -15,7 +15,7 @@ Java                 |           89           |          390*          |      0,
 Rust (Debug)         |           40           |        1911160         |      0,202       |  0,004
 Rust (Release)       |           40           |        1911008         |      0,180       |  0,004
 
-* Java's "binary" is just the bytecode for the JVM
+\* Java's "binary" is just the bytecode for the JVM
 
 ## Environment
 
