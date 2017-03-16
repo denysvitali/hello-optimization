@@ -9,6 +9,7 @@ Tested on an Acer Aspire VN7 Nitro Black Edition, Intel(R) Core(TM) i7-6700HQ CP
 Programming Language | Source Size (in Bytes) | Binary Size (in Bytes) | Compilation time | Run time
 -------------------- | :--------------------: | :--------------------: | :--------------: | :------:
 C                    |           58           |          8368          |      0,037       |  0,002
+C++                  |           68           |          8368          |      0,040       |  0,003
 Crystal (Debug)      |           19           |         601952         |      0,537       |  0,005
 Crystal (Release)    |           19           |         227168         |      2,248       |  0,005
 Java                 |           89           |          390*          |      0,349       |  0,002
@@ -20,8 +21,10 @@ Rust (Release)       |           40           |        1911008         |      0,
 ## Environment
 
 Programming Language | Compiler Version
--------------------- | ----------------------------------------------------------------------------------------------------------
+-------------------- | -------------------------------------------------------------------------------------------------------------
 C                    | gcc version 6.3.1 20170306
+C++                  | gcc version 6.3.1 20170306
 Crystal              | Crystal 0.20.5 (2017-01-25)
-Java                 | OpenJDK Runtime Environment (build 1.8.0_121-b13) <br/>OpenJDK 64-Bit Server VM (build 25.121-b13, mixed mode)
+Java                 | OpenJDK Runtime Environment (build 1.8.0_121-b13)<br>
+OpenJDK 64-Bit Server VM (build 25.121-b13, mixed mode)
 Rust                 | rustc 1.15.1
